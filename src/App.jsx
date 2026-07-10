@@ -5,6 +5,7 @@ function App() {
     <div>
         <h1>git hub team</h1>
         <h2>bu abubakir</h2>
+        <h2>bu main branch</h2>
     </div>
   )
 }
