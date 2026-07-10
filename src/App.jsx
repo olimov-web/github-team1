@@ -4,6 +4,7 @@ function App() {
   return (
     <div>
         <h1>git hub team</h1>
+        <h2>bu abubakir</h2>
     </div>
   )
 }
